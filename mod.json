@@ -1,0 +1,13 @@
+{
+  "geode": "4.0.0",
+  "gd": {
+    "win": "2.2074",
+    "android": "2.2074",
+    "mac": "2.2074"
+  },
+  "id": "rebal.chaosmod",
+  "name": "Chaos Mod",
+  "version": "v1.0.0",
+  "developer": "rebal",
+  "description": "Rainbow icon, wobbling rainbow menu logo, shifting backgrounds, and a death counter that roasts you."
+}
